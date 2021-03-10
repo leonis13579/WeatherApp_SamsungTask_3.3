@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp_SamsungTask_3.3</string>
+    <string name="Moscow">Москва</string>
+    <string name="Night">Погода ночью</string>
+    <string name="Morning">Погода утром</string>
+    <string name="Day">Погода днем</string>
+    <string name="Evening">Погода вечером</string>
+</resources>
